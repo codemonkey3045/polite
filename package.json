@@ -1,0 +1,22 @@
+{
+  "name": "polite",
+  "version": "1.0.0",
+  "description": "slack bot that'll store messages and then deliver at appropriate work hours",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "temp"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Catia Goncalves",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.4.0",
+    "util": "^0.10.3"
+  }
+}
